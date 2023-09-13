@@ -1,0 +1,15 @@
+type: code
+custom_name: Programming
+files:
+- name: task.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+status: Solved
+feedback:
+  message: |-
+    <html>Помни: квадрат суммы двух неотрицательных (неположительных) чисел всегда не меньше, чем сумма их квадратов!
+
+    </html>
+  time: "Fri, 27 Jan 2023 20:41:18 UTC"
+record: -1

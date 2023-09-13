@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: 1
+- text: 2
+- text: 3
+- text: 4
+- text: 5
+- text: 6
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Sat, 18 Feb 2023 13:51:10 UTC"
+record: -1
+selected_options:
+- 2
+- 4
+local_check: false

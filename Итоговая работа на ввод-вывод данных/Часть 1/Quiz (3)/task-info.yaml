@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 1*2*3*4
+- text: 1234
+- text: 24
+- text: 1 2 3 4
+files:
+- name: task.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 27 Jan 2023 20:30:20 UTC"
+record: -1
+selected_options:
+- 0
+custom_name: Quiz
+local_check: false
